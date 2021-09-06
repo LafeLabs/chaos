@@ -1,6 +1,6 @@
 [return home](scrolls/home)
 
-![](https://i.imgur.com/rMRYFpQ.png)
+![](https://i.imgur.com/9UPvqj9.png)
 
 # Chaos
 
