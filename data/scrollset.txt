@@ -1,5 +1,5 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/philosophyengine/main/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
     "scrolls": [
         "home",
         "north",
