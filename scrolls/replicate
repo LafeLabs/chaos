@@ -1,0 +1,39 @@
+
+[home](scrolls/home)    
+    
+# replicate
+
+Replicate CHAOS by getting a local web server working with PHP and copying and running the replicator script at 
+
+[php/replicator.txt](php/replicator.txt)
+
+Point your browser to the server after the replicator runs. 
+
+To replicate a fork down from a given instance, use
+
+[fork.html](fork.html)
+
+for more details on installation see the Geometron readme at 
+
+[https://github.com/lafelabs/thing/](https://github.com/lafelabs/thing/) 
+
+as well as the [README](scroll(README.md)) file on this server.
+
+Create your own github repository, run a local PHP server in the directory and replicate onto your development machine, edit, push to your own github "chaos" repository under your github username, and replicate the new instance out to the system.
+
+To replicate the whole system, run the dna generator to get current dna:
+
+[dnagenerator.php](dnagenerator.php)
+
+To replicate a set of scrolls from a remote server, put the server into the input in the scroll set replicator.  You can replicate from any chaos server to any other chaos server using the scroll set replicator.
+
+[scrollset.html](scrollset.html)
+
+See the raw set data at
+
+[data/scrollset.txt](data/scrollset.txt)
+
+
+
+
+

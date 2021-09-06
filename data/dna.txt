@@ -40,8 +40,13 @@
     ],
     "maps": [],
     "scrolls": [
+        "deadend",
+        "dumpster",
         "home",
+        "manhole",
         "north",
-        "south"
+        "south",
+        "tree",
+        "woods"
     ]
 }

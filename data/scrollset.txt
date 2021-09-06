@@ -1,8 +1,16 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
+    "server": "http://10.0.0.26/chaos/",
     "scrolls": [
+        "deadend",
+        "destroy",
+        "dumpster",
+        "evolve",
         "home",
+        "manhole",
         "north",
-        "south"
+        "replicate",
+        "south",
+        "tree",
+        "woods"
     ]
 }

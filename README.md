@@ -53,6 +53,8 @@ Links between scrolls are formed by simply making a markdown link which has "scr
 
 [copy.html](copy.html)
 
+[dnagenerator.php](dnagenerator.php)
+
 [code editor editor.php](editor.php)
 
 [QR Code generator](qrcode.html)
