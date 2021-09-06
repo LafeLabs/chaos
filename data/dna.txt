@@ -41,10 +41,13 @@
     "maps": [],
     "scrolls": [
         "deadend",
+        "destroy",
         "dumpster",
+        "evolve",
         "home",
         "manhole",
         "north",
+        "replicate",
         "south",
         "tree",
         "woods"
