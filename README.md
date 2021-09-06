@@ -1,8 +1,8 @@
 [return home](scrolls/home)
 
-![](https://i.imgur.com/9UPvqj9.png)
+[![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
-# Chaos: [maplelawn.net](https://www.maplelawn.net/)
+# [Chaos](https://github.com/LafeLabs/chaos/): [maplelawn.net](https://www.maplelawn.net/)
 
 Chaos combines the following:
 
