@@ -8,10 +8,40 @@ Chaos combines the following:
 
  - [Zork/Adventure style text-based games](https://en.wikipedia.org/wiki/Zork)
  - [Letterboxing](https://en.wikipedia.org/wiki/Letterboxing_(hobby))
+ - [Psychogeography](https://en.wikipedia.org/wiki/Psychogeography)
  - [Exquisite corpse](https://en.wikipedia.org/wiki/Exquisite_corpse)
  - [Chaos Magic](https://en.wikipedia.org/wiki/Chaos_magic)
  - [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
  - [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
+
+Organic media. The rules of Organic Media are:
+
+ - Everything replicates. Anyone can replicate any system or document at any time to anywhere.
+ - Everything evolves.  Anyone can edit any part of any system or document at any time.
+ - Everything dies.  Anyone can delete any system or document at any time. Files are constantly deleted.  Good files replicate, bad files die.
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kaypro_wikipedia.jpg/2560px-Kaypro_wikipedia.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/en/a/ac/Zork_I_box_art.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/90/Liberatelondon.GIF)
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WorldWideLetterBox016.png/340px-WorldWideLetterBox016.png)
+
+![](https://upload.wikimedia.org/wikipedia/en/9/90/Pok%C3%A9mon_Go_AR_Mode%2C_Dec_2017.png)
+
+![](https://upload.wikimedia.org/wikipedia/en/a/a1/Dungeons_%26_Dragons_Miniatures_2.jpg)
+
+![](https://i.imgur.com/BbU0bAX.jpg)
+
+For more information, see [www.trashrobot.org](https://www.trashrobot.org/).  
+
+Text documents are called "scrolls" and are in [Markdown](https://daringfireball.net/projects/markdown/).
+
+Links between scrolls are formed by simply making a markdown link which has "scrolls/" and then the scroll name. Click the pencil icon to edit a scroll, then the scroll icon to get back to the reader.
+
 
 
 [scroll set replicator](scrollset.html)
@@ -30,25 +60,6 @@ Chaos combines the following:
 
 link pink rgb: #ff2cb4
 
-Organic media. The rules of Organic Media are:
-
- - Everything replicates. Anyone can replicate any system or document at any time to anywhere.
- - Everything evolves.  Anyone can edit any part of any system at any time.
- - Everything dies.  Anyone can delete any file at any time. Files are constantly deleted.  Good files replicate, bad files die.
-
-For more information, see [www.trashrobot.org](https://www.trashrobot.org/).  
-
-Text documents are called "scrolls" and are in [Markdown](https://daringfireball.net/projects/markdown/).
-
-Links between scrolls are formed by simply making a markdown link which has "scrolls/" and then the scroll name. Click the pencil icon to edit a scroll, then the scroll icon to get back to the reader.
-
-[editor.php](editor.php)
-
-[replicator raw text](https://raw.githubusercontent.com/LafeLabs/philosophyengine/master/php/replicator.txt)
-
-[dnagenerator.php](dnagenerator.php)
-
-[qrcode.html](qrcode.html)
 
 [http://localhost](http://localhost)
 
@@ -67,10 +78,6 @@ To delete a scroll click the deleter icon:
 [![](iconsymbols/delete.svg)](scrolldelete.html)
 
 And delete any scroll.  Delete is forever in local instance.  At any time you can clear the whole system and replace it with the previous instance from another server by running replicator.php.  
-
-Danger!!! 
-
-Click this ONLY if you want to start over from scratch: [replicator.php](replicator.php).
 
 Edit the source code to ALL code on this server using editor.php:
 
