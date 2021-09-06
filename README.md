@@ -21,20 +21,19 @@ Organic media. The rules of Organic Media are:
  - Everything dies.  Anyone can delete any system or document at any time. Files are constantly deleted.  Good files replicate, bad files die.
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kaypro_wikipedia.jpg/2560px-Kaypro_wikipedia.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kaypro_wikipedia.jpg/2560px-Kaypro_wikipedia.jpg)](https://en.wikipedia.org/wiki/Zork)
 
-![](https://upload.wikimedia.org/wikipedia/en/a/ac/Zork_I_box_art.jpg)
+[![](https://upload.wikimedia.org/wikipedia/en/a/ac/Zork_I_box_art.jpg)](https://en.wikipedia.org/wiki/Zork)
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/90/Liberatelondon.GIF)
+[![](https://upload.wikimedia.org/wikipedia/commons/9/90/Liberatelondon.GIF)](https://en.wikipedia.org/wiki/Psychogeography)
 
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WorldWideLetterBox016.png/340px-WorldWideLetterBox016.png)](https://en.wikipedia.org/wiki/Letterboxing_(hobby))
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WorldWideLetterBox016.png/340px-WorldWideLetterBox016.png)
+[![](https://upload.wikimedia.org/wikipedia/en/9/90/Pok%C3%A9mon_Go_AR_Mode%2C_Dec_2017.png)](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
 
-![](https://upload.wikimedia.org/wikipedia/en/9/90/Pok%C3%A9mon_Go_AR_Mode%2C_Dec_2017.png)
+[![](https://upload.wikimedia.org/wikipedia/en/a/a1/Dungeons_%26_Dragons_Miniatures_2.jpg)](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
 
-![](https://upload.wikimedia.org/wikipedia/en/a/a1/Dungeons_%26_Dragons_Miniatures_2.jpg)
-
-![](https://i.imgur.com/BbU0bAX.jpg)
+[![](https://i.imgur.com/BbU0bAX.jpg)](https://www.trashrobot.org/)
 
 For more information, see [www.trashrobot.org](https://www.trashrobot.org/).  
 
