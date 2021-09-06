@@ -41,7 +41,7 @@
     "maps": [],
     "scrolls": [
         "home",
-        "no",
-        "yes"
+        "north",
+        "south"
     ]
 }

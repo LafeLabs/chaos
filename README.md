@@ -1,10 +1,22 @@
 [return home](scrolls/home)
 
-# Philosophy Engine
+![](https://i.imgur.com/rMRYFpQ.png)
+
+# Chaos
+
+Chaos combines the following:
+
+ - [Zork/Adventure style text-based games](https://en.wikipedia.org/wiki/Zork)
+ - [Letterboxing](https://en.wikipedia.org/wiki/Letterboxing_(hobby))
+ - [Exquisite corpse](https://en.wikipedia.org/wiki/Exquisite_corpse)
+ - [Chaos Magic](https://en.wikipedia.org/wiki/Chaos_magic)
+ - [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
+ - [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
+
 
 [scroll set replicator](scrollset.html)
 
-[github repository for this](https://github.com/LafeLabs/philosophyengine/)
+[github repository for this](https://github.com/LafeLabs/chaos/)
 
 [fork down](fork.html)
 
@@ -13,6 +25,8 @@
 [copy.html](copy.html)
 
 [code editor editor.php](editor.php)
+
+[QR Code generator](qrcode.html)
 
 link pink rgb: #ff2cb4
 

@@ -2,7 +2,7 @@
     "server": "https://raw.githubusercontent.com/LafeLabs/philosophyengine/main/",
     "scrolls": [
         "home",
-        "no",
-        "yes"
+        "north",
+        "south"
     ]
 }

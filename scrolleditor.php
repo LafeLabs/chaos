@@ -34,12 +34,10 @@
     
 # name
 
-Statement about thing.
+You are here.
 
-Is this a question?
-
- - [yes](scrolls/yes)
- - [no](scrolls/no)
+ - [go north](scrolls/north)
+ - [go south](scrolls/south)
 
 </div>
     
