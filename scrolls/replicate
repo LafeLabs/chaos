@@ -3,7 +3,7 @@
     
 # replicate
 
-Replicate CHAOS by getting a local web server working with PHP and copying and running the replicator script at 
+Replicate [CHAOS](https://github.com/LafeLabs/chaos) by getting a local web server working with PHP and copying and running the replicator script at 
 
 [php/replicator.txt](php/replicator.txt)
 
@@ -21,7 +21,7 @@ as well as the [README](scroll(README.md)) file on this server.
 
 Create your own github repository, run a local PHP server in the directory and replicate onto your development machine, edit, push to your own github "chaos" repository under your github username, and replicate the new instance out to the system.
 
-To replicate the whole system, run the dna generator to get current dna:
+To replicate the whole system, run the dna generator to get current [data/dna.txt](data/dna.txt):
 
 [dnagenerator.php](dnagenerator.php)
 

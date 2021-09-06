@@ -3,8 +3,16 @@
     
 # evolve
 
-You are here.
+All documents can be edited by all people at all time.
 
- - [go north](scrolls/north)
- - [go south](scrolls/south)
+to edit the scrolls, use scroll editor at [scrolleditor.php](scrolleditor.php?scroll=scrolls/evolve).
+
+to edit all the other code on this server, use [editor.php](editor.php).
+
+Editor.php can edit ALL code on the server, including itself and the other PHP scripts, but it edits .txt copies in the "php/" directory to avoid instant destruction of files while they're used. To convert all those .txt files into .php files in the main web directory run:
+
+[text2php.php](text2php.php)
+
+To make a new file, use editor.php?newfile=[filename].
+
 

@@ -16,9 +16,9 @@ Chaos combines the following:
 
 Organic media. The rules of Organic Media are:
 
- - Everything replicates. Anyone can replicate any system or document at any time to anywhere.
- - Everything evolves.  Anyone can edit any part of any system or document at any time.
- - Everything dies.  Anyone can delete any system or document at any time. Files are constantly deleted.  Good files replicate, bad files die.
+ - [Everything replicates](scrolls/replicate). Anyone can replicate any system or document at any time to anywhere.
+ - [Everything evolves](scrolls/evolve).  Anyone can edit any part of any system or document at any time.
+ - [Everything dies](scrolls/destroy).  Anyone can delete any system or document at any time. Files are constantly deleted.  Good files replicate, bad files die.
 
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kaypro_wikipedia.jpg/2560px-Kaypro_wikipedia.jpg)](https://en.wikipedia.org/wiki/Zork)
