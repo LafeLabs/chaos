@@ -40,15 +40,21 @@
     ],
     "maps": [],
     "scrolls": [
+        "box",
+        "bridge",
+        "circle",
         "deadend",
         "destroy",
         "dumpster",
         "evolve",
+        "hole",
         "home",
         "manhole",
         "north",
+        "pipe",
         "replicate",
         "south",
+        "tower",
         "tree",
         "woods"
     ]
