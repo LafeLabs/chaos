@@ -1,5 +1,9 @@
 [return home](scrolls/home)
 
+## NOTE!!! This has been replaced by the simpler version at "street":
+
+[https://github.com/LafeLabs/street](https://github.com/LafeLabs/street)
+
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
 To play the game write on cardboard with a sharpie.
