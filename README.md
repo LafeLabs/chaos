@@ -2,6 +2,8 @@
 
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
+To play the game write on cardboard with a sharpie.
+
 # [Chaos](https://github.com/LafeLabs/chaos/): [maplelawn.net](https://www.maplelawn.net/)
 
 Chaos combines the following:
