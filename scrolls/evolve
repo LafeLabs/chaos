@@ -3,6 +3,10 @@
     
 # evolve
 
+ - [scrolleditor.php](scrolleditor.php)
+ - [editor.php](editor.php)
+ - [github repo](https://github.com/LafeLabs/street)
+
 All documents can be edited by all people at all time.
 
 to edit the scrolls, use scroll editor at [scrolleditor.php](scrolleditor.php?scroll=scrolls/evolve).

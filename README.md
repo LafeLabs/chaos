@@ -1,16 +1,30 @@
 [return home](scrolls/home)
 
-## NOTE!!! This has been replaced by the simpler version at "street":
+[http://localhost](http://localhost)
 
-[https://github.com/LafeLabs/street](https://github.com/LafeLabs/street)
+NOTE!!! This is the same as [github/lafelabs/street](https://github.com/LafeLabs/street)
 
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
-To play the game write on cardboard with a sharpie.
+# CHAOS
 
-# [Chaos](https://github.com/LafeLabs/chaos/): [maplelawn.net](https://www.maplelawn.net/)
+A text-based mixed reality game.
 
-Chaos combines the following:
+Goal: build a language of this place.
+
+How to play:
+
+1. follow the scrolls
+2. answer the questions
+3. write on cardboard with marker
+
+Rules:
+
+1. [everything replicates](scrolls/replicate)
+2. [everything evolves](scrolls/evolve)
+3. [everything dies](scrolls/destroy)
+
+Influences:
 
  - [Zork/Adventure style text-based games](https://en.wikipedia.org/wiki/Zork)
  - [Letterboxing](https://en.wikipedia.org/wiki/Letterboxing_(hobby))
@@ -19,14 +33,6 @@ Chaos combines the following:
  - [Chaos Magic](https://en.wikipedia.org/wiki/Chaos_magic)
  - [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
  - [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
-
-Organic media. The rules of Organic Media are:
-
- - [Everything replicates](scrolls/replicate). Anyone can replicate any system or document at any time to anywhere.
- - [Everything evolves](scrolls/evolve).  Anyone can edit any part of any system or document at any time.
- - [Everything dies](scrolls/destroy).  Anyone can delete any system or document at any time. Files are constantly deleted.  Good files replicate, bad files die.
-
-To play the game, just write on cardboard with sharpies.
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kaypro_wikipedia.jpg/2560px-Kaypro_wikipedia.jpg)](https://en.wikipedia.org/wiki/Zork)
 
@@ -49,7 +55,6 @@ Text documents are called "scrolls" and are in [Markdown](https://daringfireball
 Links between scrolls are formed by simply making a markdown link which has "scrolls/" and then the scroll name. Click the pencil icon to edit a scroll, then the scroll icon to get back to the reader.
 
 
-
 [scroll set replicator](scrollset.html)
 
 [github repository for this](https://github.com/LafeLabs/chaos/)
@@ -67,7 +72,6 @@ Links between scrolls are formed by simply making a markdown link which has "scr
 [QR Code generator](qrcode.html)
 
 link pink rgb: #ff2cb4
-
 
 [http://localhost](http://localhost)
 

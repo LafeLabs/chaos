@@ -4,12 +4,31 @@
 
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
-To play the game, write on cardboard with a sharpie.
+A text-based mixed reality game.
 
-# [README](scroll(README.md))
+Goal: build a language of this place.
+
+How to play:
+
+1. follow the scrolls
+2. answer the questions
+3. write on cardboard with marker
+
+Rules:
+
+1. [everything replicates](scrolls/replicate)
+2. [everything evolves](scrolls/evolve)
+3. [everything dies](scrolls/destroy)
+
+Scrolls:
 
  - [dumpster](scrolls/dumpster)
  - [deadend](scrolls/deadend)
  - [woods](scrolls/woods)
+ - [manhole](scrolls/manhole)
+ - [tree](scrolls/tree)
+
+# [README](scroll(README.md))
+
 
 [![](https://i.imgur.com/xELR9x1.png)](qrcode.html)

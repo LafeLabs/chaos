@@ -32,12 +32,11 @@
 <div id = "prototypescroll" style = "display:none">
 [home](scrolls/home)    
     
+**what does name mean?**    
+    
 # name
 
-You are here.
-
- - [go north](scrolls/north)
- - [go south](scrolls/south)
+You find the name by going from the road to the place then walking a travelling a number of yards to the thing, and from there to the name.
 
 </div>
     
