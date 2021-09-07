@@ -33,6 +33,14 @@ Scrolls:
  - [woods](scrolls/woods)
  - [manhole](scrolls/manhole)
  - [tree](scrolls/tree)
+ - [fence](scrolls/fence)
+ - [hole](scrolls/hole)
+ - [curb](scrolls/curb)
+ - [tower](scrolls/tree)
+ - [wall](scrolls/wall)
+ - [tower](scrolls/tower)
+ - [pipe](scrolls/pipe)
+
 
 # [README](scroll(README.md))
 
