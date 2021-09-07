@@ -40,14 +40,18 @@
     ],
     "maps": [],
     "scrolls": [
+        "curb",
         "deadend",
         "destroy",
         "dumpster",
         "evolve",
+        "fence",
         "home",
         "manhole",
+        "pipe",
         "replicate",
         "tree",
+        "wall",
         "woods"
     ]
 }

@@ -11,6 +11,8 @@
 
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
+![](https://i.imgur.com/LB6kLFj.png)
+
 # CHAOS
 
 A text-based mixed reality game.

@@ -36,7 +36,7 @@
     
 # name
 
-You find the name by going from the road to the place then walking a travelling a number of yards to the thing, and from there to the name.
+You find the name by going from the road to the place then walking a traveling a number of yards to the thing, and from there to the name.
 
 </div>
     
