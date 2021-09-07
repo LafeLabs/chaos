@@ -9,7 +9,7 @@ To destroy scrolls, click the BIG RED X on the scroll editor.
 
 Here is a link to the scroll editor, editing the [destroy scroll](scrolls/destroy):
 
-[![](iconsymbols/edit.svg)](scrolleditor.php?scroll=destroy)
+[![](iconsymbols/edit.svg)](scrolleditor.php?scroll=scrolls/destroy)
 
 And here is a direct link to the destroy of scrolls. Instant destruction, no undo.  Everything dies.
 
