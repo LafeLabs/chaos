@@ -20,6 +20,7 @@ Organic media. The rules of Organic Media are:
  - [Everything evolves](scrolls/evolve).  Anyone can edit any part of any system or document at any time.
  - [Everything dies](scrolls/destroy).  Anyone can delete any system or document at any time. Files are constantly deleted.  Good files replicate, bad files die.
 
+To play the game, just write on cardboard with sharpies.
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kaypro_wikipedia.jpg/2560px-Kaypro_wikipedia.jpg)](https://en.wikipedia.org/wiki/Zork)
 
