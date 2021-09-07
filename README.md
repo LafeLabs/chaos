@@ -45,8 +45,6 @@ Influences:
 
 [![](https://upload.wikimedia.org/wikipedia/en/a/ac/Zork_I_box_art.jpg)](https://en.wikipedia.org/wiki/Zork)
 
-[![](https://upload.wikimedia.org/wikipedia/commons/9/90/Liberatelondon.GIF)](https://en.wikipedia.org/wiki/Psychogeography)
-
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WorldWideLetterBox016.png/340px-WorldWideLetterBox016.png)](https://en.wikipedia.org/wiki/Letterboxing_(hobby))
 
 [![](https://upload.wikimedia.org/wikipedia/en/9/90/Pok%C3%A9mon_Go_AR_Mode%2C_Dec_2017.png)](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
