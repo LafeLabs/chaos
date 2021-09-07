@@ -32,7 +32,7 @@
 <div id = "prototypescroll" style = "display:none">
 [home](scrolls/home)    
     
-**what does name mean?**    
+*what does name mean?*
     
 # name
 
