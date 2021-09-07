@@ -2,8 +2,6 @@
 
 [http://localhost](http://localhost)
 
-NOTE!!! This is the same as [github/lafelabs/street](https://github.com/LafeLabs/street)
-
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
 # CHAOS
