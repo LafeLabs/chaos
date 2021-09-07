@@ -46,10 +46,12 @@
         "dumpster",
         "evolve",
         "fence",
+        "hole",
         "home",
         "manhole",
         "pipe",
         "replicate",
+        "tower",
         "tree",
         "wall",
         "woods"
