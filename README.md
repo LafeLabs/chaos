@@ -1,13 +1,6 @@
-[return home](scrolls/home)
+[home](scrolls/home)
 
-[http://localhost](http://localhost)
-
-
-[www.maplelawn.net](https://www.maplelawn.net)
-
-[www.us29.xyz](https://www.us29.xyz)
-
-[www.dupontcircle.xyz](https://www.dupontcircle.xyz)
+*what is the language of this place?*
 
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
@@ -18,6 +11,8 @@
 A text-based mixed reality game.
 
 Goal: build a language of this place.
+
+[create a new game](scrolls/creators)
 
 How to play:
 
@@ -30,6 +25,13 @@ Rules:
 1. [everything replicates](scrolls/replicate)
 2. [everything evolves](scrolls/evolve)
 3. [everything dies](scrolls/destroy)
+
+Domains:
+
+ - [http://localhost](http://localhost)
+ - [www.maplelawn.net](https://www.maplelawn.net) 
+ - [www.us29.xyz](https://www.us29.xyz)
+ - [www.dupontcircle.xyz](https://www.dupontcircle.xyz)
 
 Influences:
 
@@ -58,6 +60,8 @@ For more information, see [www.trashrobot.org](https://www.trashrobot.org/).
 Text documents are called "scrolls" and are in [Markdown](https://daringfireball.net/projects/markdown/).
 
 Links between scrolls are formed by simply making a markdown link which has "scrolls/" and then the scroll name. Click the pencil icon to edit a scroll, then the scroll icon to get back to the reader.
+
+
 
 
 [scroll set replicator](scrollset.html)
