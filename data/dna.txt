@@ -40,6 +40,7 @@
     ],
     "maps": [],
     "scrolls": [
+        "bench",
         "creators",
         "curb",
         "deadend",

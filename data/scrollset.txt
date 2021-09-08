@@ -1,6 +1,7 @@
 {
     "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
     "scrolls": [
+        "bench",
         "creators",
         "curb",
         "deadend",

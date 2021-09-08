@@ -1,6 +1,7 @@
-
 [home](scrolls/home)    
-    
+
+*how do we evolve the system?*    
+
 # evolve
 
  - [scrolleditor.php](scrolleditor.php)
@@ -10,6 +11,10 @@
 All documents can be edited by all people at all time.
 
 to edit the scrolls, use scroll editor at [scrolleditor.php](scrolleditor.php?scroll=scrolls/evolve).
+
+scrolls are in [markdown](https://daringfireball.net/projects/markdown/), learn it.
+
+To build a new scroll, enter it in "new scroll name" in the scroll editor.  [All scrolls can be deleted at any time](scrolls/destroy).
 
 to edit all the other code on this server, use [editor.php](editor.php).
 
