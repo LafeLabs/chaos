@@ -16,10 +16,10 @@ Goal: build a language of this place.
 
 How to play:
 
-1. follow the scrolls
+1. follow the scrolls to the things in the places
 2. answer the questions
-3. write on cardboard with marker
-4. exchange free objects
+3. exchange messages with cardboard/sharpie
+4. leave/take free objects
 
 Rules:
 
