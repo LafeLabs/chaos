@@ -42,21 +42,18 @@
     "scrolls": [
         "bench",
         "creators",
-        "curb",
         "deadend",
         "destroy",
         "dumpster",
         "evolve",
-        "fence",
-        "hole",
+        "gazebo",
         "home",
         "manhole",
         "pipe",
         "questions",
         "replicate",
-        "tower",
         "tree",
-        "wall",
+        "treegrotto",
         "woods"
     ]
 }
