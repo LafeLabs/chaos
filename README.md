@@ -10,31 +10,72 @@
 
 A text-based mixed reality game.
 
-Goal: build a language of this place.
+## How to play:
 
-[create a new game](scrolls/creators)
-
-How to play:
-
-1. follow the scrolls to the things in the places
+1. follow the scrolls
 2. answer the questions
-3. exchange messages with cardboard/sharpie
-4. leave/take free objects
+3. leave a thing, take a thing
+4. write a message, read a message
 
-Rules:
+## Rules:
 
 1. [everything replicates](scrolls/replicate)
 2. [everything evolves](scrolls/evolve)
 3. [everything dies](scrolls/destroy)
 
-Domains:
+## How to create a new CHAOS game:
+
+1. [replicate CHAOS server to development computer, github](scrolls/replicate)
+2. find a place for an exchange, name it, leave a marker
+3. write a question for the place
+4. write directions to the place
+5. [create and edit scroll with question, name, directions, links to other scrolls](scrolls/evolve)
+6. push scroll to github, replicate from github to global domain with CHAOS server
+7. post links to public facing server
+8. Link up the map
+
+## Replicating CHAOS server
+
+1. Start a new [github](https://github.com/) repository with a CC0 public domain license
+2. Clone the repository to a directory where you have [PHP](https://www.php.net/) working on your computer.
+3. Create a new file in the directory called replicator.php and copy the file [php/replicator.txt](php/replicator.txt) into it, then run from the command line by typing "php replicator.php".
+4. Run a local PHP web host on your machine by typing "php -S localhost:80", and point a web browser to [http://localhost](http://localhost).
+5. Create new scrolls and edit them using [scrolleditor.php](scrolleditor.php). Scrolls are in the [Markdown](https://daringfireball.net/projects/markdown/) language
+6. Delete unused scrolls with [scrolldelete.html](scrolldelete.html)
+7. Update the dna with [dnagenerator.php](dnagenerator.php)
+8. Update the scroll replicator with [scrollset.html](scrollset.html)
+9. Use [editor.php](editor.php) to edit the code in replicator.txt so that both links to global urls are to your new repository rather than what they are now.
+10. Push all changes to github
+11. Either get a new domain for the place you're building CHAOS in or use [fork.html](fork.html) to fork down to a new page below an existing CHAOS server.  In whatever directory you will build your new server, place another copy of your new file [php/replicator.txt](php/replicator.txt), saved again as replicator.php.
+12. Point a browser to [whatever your server address is]/replicator.php, wait, then click the link
+13. Create physical links to the url and place in physical proximity to the places
+
+## Finding a place.  
+
+1. places covered by a given CHAOS server should be within 1 or 2 thousand yards.
+2. find places which are in public and will not be naturally disturbed by or even seen by passerby or maintenance workers.
+3. Find very local landmarks which direct players to a place only a bout a yard in size.
+4. give places names that can easily map to other places, like "tree" or "manhole"
+5. avoid private names of businesses or people
+6. leave a marker which people can take as many of as they want, return to leave more markers, only use markers you want to distribute freely
+7. seed places by leaving cardboard, sharpies, random art, useful things
+
+## Asking questions
+
+We ask questions which help people to make a better place right here. We want to learn the plants, the animals, the flows of water, the flows of trash, the flows of commerce, and the network of people. we want to connect people with other people.  We ask questions which do these things in their answering.  Questions may be answered in peoples heads without writing them down.
+
+## Writing directions
+
+Directions can be from another place in the map or from a landmark like an intersection.  Use as much detail as possible, clearly describe all landmarks.  If you go more than about 100 yards, add a landmark.  Use yards or paces, assume they're about the same. Write directions so that if paces vary people can still follow them, clearly describing all small landmarks.  
+
+## Domains:
 
  - [http://localhost](http://localhost)
  - [www.maplelawn.net](https://www.maplelawn.net) 
  - [www.us29.xyz](https://www.us29.xyz)
  - [www.dupontcircle.xyz](https://www.dupontcircle.xyz)
 
-Influences:
+## Influences:
 
  - [Zork/Adventure style text-based games](https://en.wikipedia.org/wiki/Zork)
  - [Letterboxing](https://en.wikipedia.org/wiki/Letterboxing_(hobby))
@@ -43,141 +84,4 @@ Influences:
  - [Chaos Magic](https://en.wikipedia.org/wiki/Chaos_magic)
  - [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
  - [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kaypro_wikipedia.jpg/2560px-Kaypro_wikipedia.jpg)](https://en.wikipedia.org/wiki/Zork)
-
-[![](https://upload.wikimedia.org/wikipedia/en/a/ac/Zork_I_box_art.jpg)](https://en.wikipedia.org/wiki/Zork)
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WorldWideLetterBox016.png/340px-WorldWideLetterBox016.png)](https://en.wikipedia.org/wiki/Letterboxing_(hobby))
-
-[![](https://upload.wikimedia.org/wikipedia/en/9/90/Pok%C3%A9mon_Go_AR_Mode%2C_Dec_2017.png)](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
-
-[![](https://upload.wikimedia.org/wikipedia/en/a/a1/Dungeons_%26_Dragons_Miniatures_2.jpg)](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
-
-[![](https://i.imgur.com/BbU0bAX.jpg)](https://www.trashrobot.org/)
-
-For more information, see [www.trashrobot.org](https://www.trashrobot.org/).  
-
-Text documents are called "scrolls" and are in [Markdown](https://daringfireball.net/projects/markdown/).
-
-Links between scrolls are formed by simply making a markdown link which has "scrolls/" and then the scroll name. Click the pencil icon to edit a scroll, then the scroll icon to get back to the reader.
-
-
-
-
-[scroll set replicator](scrollset.html)
-
-[github repository for this](https://github.com/LafeLabs/chaos/)
-
-[fork down](fork.html)
-
-[replicator raw code](php/replicator.txt)
-
-[copy.html](copy.html)
-
-[dnagenerator.php](dnagenerator.php)
-
-[code editor editor.php](editor.php)
-
-[QR Code generator](qrcode.html)
-
-link pink rgb: #ff2cb4
-
-[http://localhost](http://localhost)
-
-[set.html](set.html)
-
-Edit icon:
-
-[![](iconsymbols/edit.svg)](scrolleditor.php?scroll=README.md)
-
-Scroll icon:
-
-[![](iconsymbols/scroll.svg)](user.php?scroll=README.md)
-
-To delete a scroll click the deleter icon:
-
-[![](iconsymbols/delete.svg)](scrolldelete.html)
-
-And delete any scroll.  Delete is forever in local instance.  At any time you can clear the whole system and replace it with the previous instance from another server by running replicator.php.  
-
-Edit the source code to ALL code on this server using editor.php:
-
-[editor.php](editor.php)
-
-Generate QR codes to this server or any other server:
-
-[qrcode.html](qrcode.html)
-
-Generate the "[dna](data/dna.txt)" file which is used by replicator.php to clone to the next instance:
-
-[dnagenerator.php](dnagenerator.php)
-
-Convenient link to localhost:
-
-[localhost/](http://localhost/)
-
-To replicate this system, get a local web host with PHP working and copy the file [php/replicator.txt](php/replicator.txt) to a file in the main web directory called replicator.php and run it either from the command line using 
-
-<pre>
-php replicator.php
-</pre>
-
-or pointing a browser to [http://localhost/replicator.php](http://localhost/replicator.php)(DANGER!!! CLICK ONLY TO CLEAR AND REPLACE!)
-
-For forking the development, get PHP working from the command line on your development machine, create a new directory for your new github repository, put replicator.php in the directory, run the replicator, and then run a local host using PHP by typing the following from the command line:
-
-<pre>
-php -S localhost:80
-</pre>
-
-Then point your browser to [http://localhost/](http://localhost/) to see your new local instance.  Edit. Create scrolls, destroy scrolls, link scroll, make the new dna using [dnagenerator.php](dnagenerator.php), push all your changes to github. 
-
-Then use [editor.php](editor.php) to edit [php/replicator.txt](php/replicator.txt) so that both the url of the replicator.txt file and dna.txt file point to the global raw text URLs for your new repository on your github account.  You can also replicate this to a globally hosted domain, and edit the replicator there to replicate out.  Once your new replicator points to itself and it's DNA your new instance is self-contained and self-replicating.
-
-[copy specific files from previous server with copy.html](copy.html)
-
-# creators
-
-We are creating a language to describe HERE. RIGHT HERE.  The actual physical place where our bodies exist in the physical world. We live in a world today where we mentally throw away places, going from one chair to another in which we spend or accumulate money, ignoring all the places between one and the other. 
-
-In CHAOS we imagine a different way of existing. We imagine a place where each tree, each grassy embankment, each curb, and each dumpster has meaning.   We imagine a place where places and things are part of a public language shared by the local community of people who exist there.  
-
-The only people who can create this language are the people of the place, and it must be shared by all.  But what we, the creators of CHAOS build is a framework in which that language can be built.  We create a grammar and vocabulary and then let the players express that in the actual literature which makes up the language. That literature is whatever people write on cardboard with sharpies and leave by the markers by the things in the places.
-
-
-To do this we need several different types of creators.
-
- 1. web operator. copies and edits web pages/servers. teaches new operators how to run the game.
- 2. maker. Makes physical things which form the markers in the places
- 3. explorer. Goes around in the physical space and finds good places for markers
- 4. story teller. Writes story into the scrolls
- 5. teacher. Creates the questions.
-
-## Web operator
-
-Web operator should be comfortable following instructions involving simple tech things, using Github and working a little bit with code.  No actual code development is needed, just following instructions and copying files.  Just being "tech friendly" is enough, this is all copy/paste.
-
-The information you need to set up a CHAOS server yourself and fork it on Github etc can be found at 
-
-[https://github.com/LafeLabs/chaos](https://github.com/LafeLabs/chaos)
-
-The actual content that goes into the scrolls will be maintained by the operator, just discuss with everyone else and help them out so they don't have to actually edit the scrolls.  Learn [Markdown](https://daringfireball.net/projects/markdown/). 
-
-## Maker 
-
-The maker makes things which act as markers. Markers are physical things with meaning left in the specific places by the specific things to which the scrolls point.  These can be anything, any made object which has some kind of meaning. They could be cardboard and sharpie if you have nothing else, but can also be complex manufactured things made from trash.  This is where the trash magicians exist, in the role of maker. Make marker and give them to the explorer who will put them in places.  Markers are not property, only make what you are prepared to give away. Anyone can take them and move them at any time, if they do, we just keep making things and adding them. Building this flow of things is part of what we are here for. Everything is free, makers are people who make things and give them away.
-
-## Explorer
-
-The explorer goes out into the place where we are making the game and places the markers by the things. If you like letter boxing, geocaching, orienteering, treasure hunts etc, this is for you.  Just find interesting places that associate with general names associated with common places out in public like "dumpster", "bench", "tree", or "gazebo". 
-
-## Story teller
-
-Each place has a story.  Each place needs a evocative description which not only tells people how to get to it but help guide them to giving the place meaning.  Ideally you will go to each place and see it and then write the story.  The explorer will find the places, and they can guide you by video if you need to write the story remotely.  After the Explorer has identified places and placed markers you build story around that, but that can be a dynamic collaboration as well.
-
-
-## Teacher
-
-Finally the Teacher will write the Questions which help prompt the creation.  This person is called the "teacher" because a creative writing teacher is the right skill set: they need to create the kinds of questions which will guide the minds of the players to building the right thoughts to create a language.  This is where philosophers can work with the raw material of language and thought to co-create entire universes with the players.  Posing the right set of questions can be incredibly powerful in stimulating the kind of creativity we need to unleash in order to help people build the language of their place.  Teacher can be totally a remote position in the party, and just needs to communicate questions to the web operator who will enter them in the scrolls.
-
+ - [geometron/trash magic](https://www.trashrobot.org)
