@@ -1,14 +1,8 @@
 *what is the language of this place?*
 
-[![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
-
-[![](https://i.imgur.com/LB6kLFj.png)](https://github.com/LafeLabs/chaos/)
-
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
-## [README](scroll(README.md))
-
-A text-based mixed reality game.
+A self-replicating text-based mixed reality game.
 
 ## How to play:
 
@@ -19,11 +13,15 @@ A text-based mixed reality game.
 
 ## Rules:
 
-1. everything replicates
-2. everything evolves
-3. everything dies
+1. everything [replicates](scroll(README.md))
+2. everything [evolves](scroll(README.md))
+3. everything [dies](scroll(README.md))
 
-Scrolls:
+## Creating your own CHAOS game:
+
+[README](scroll(README.md))
+
+## Scrolls:
 
  - [dumpster](scrolls/dumpster)
  - [deadend](scrolls/deadend)

@@ -1,5 +1,7 @@
 [home](scrolls/home)
 
+### README.md
+
 *what is the language of this place?*
 
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
@@ -8,7 +10,7 @@
 
 # CHAOS
 
-A text-based mixed reality game.
+A self-replicating text-based mixed reality game.
 
 ## How to play:
 
@@ -20,7 +22,7 @@ A text-based mixed reality game.
 ## Rules:
 
 1. everything replicates
-2. everything evolves]
+2. everything evolves
 3. everything dies
 
 ## How to create a new CHAOS game:
