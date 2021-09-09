@@ -41,17 +41,12 @@
     "maps": [],
     "scrolls": [
         "bench",
-        "creators",
         "deadend",
-        "destroy",
         "dumpster",
-        "evolve",
         "gazebo",
         "home",
         "manhole",
         "pipe",
-        "questions",
-        "replicate",
         "tree",
         "treegrotto",
         "woods"

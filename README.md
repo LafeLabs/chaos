@@ -19,9 +19,9 @@ A text-based mixed reality game.
 
 ## Rules:
 
-1. [everything replicates](scrolls/replicate)
-2. [everything evolves](scrolls/evolve)
-3. [everything dies](scrolls/destroy)
+1. everything replicates
+2. everything evolves]
+3. everything dies
 
 ## How to create a new CHAOS game:
 
@@ -85,3 +85,5 @@ Directions can be from another place in the map or from a landmark like an inter
  - [Pokemon Go](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
  - [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
  - [geometron/trash magic](https://www.trashrobot.org)
+ - [really really free markets](https://en.wikipedia.org/wiki/Really_Really_Free_Market)
+ - [food not bombs](https://en.wikipedia.org/wiki/Food_Not_Bombs)

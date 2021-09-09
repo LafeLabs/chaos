@@ -2,17 +2,12 @@
     "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
     "scrolls": [
         "bench",
-        "creators",
         "deadend",
-        "destroy",
         "dumpster",
-        "evolve",
         "gazebo",
         "home",
         "manhole",
         "pipe",
-        "questions",
-        "replicate",
         "tree",
         "treegrotto",
         "woods"
