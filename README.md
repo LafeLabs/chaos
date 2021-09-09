@@ -74,6 +74,8 @@ Directions can be from another place in the map or from a landmark like an inter
  - [www.maplelawn.net](https://www.maplelawn.net) 
  - [www.us29.xyz](https://www.us29.xyz)
  - [www.dupontcircle.xyz](https://www.dupontcircle.xyz)
+ - [www.southbroadway.net](https://www.southbroadway.net/)
+ - [www.dolorespark.xyz](http://www.dolorespark.xyz/)
 
 ## Influences:
 
