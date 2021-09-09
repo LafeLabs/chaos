@@ -91,3 +91,17 @@ Directions can be from another place in the map or from a landmark like an inter
  - [geometron/trash magic](https://www.trashrobot.org)
  - [really really free markets](https://en.wikipedia.org/wiki/Really_Really_Free_Market)
  - [food not bombs](https://en.wikipedia.org/wiki/Food_Not_Bombs)
+
+## Laws of Geometron:
+
+1. everything is physical
+2. everything is fractal
+3. everything is recursive
+4. no money
+5. no mining
+6. no property
+7. look at the insects
+8. look at the fungi
+9. language is how the mind parses reality
+
+

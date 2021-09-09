@@ -8,6 +8,7 @@
         "home",
         "manhole",
         "pipe",
+        "pylon",
         "tree",
         "treegrotto",
         "woods"
