@@ -19,6 +19,7 @@ How to play:
 1. follow the scrolls
 2. answer the questions
 3. write on cardboard with marker
+4. exchange free objects
 
 Rules:
 
@@ -165,7 +166,7 @@ The actual content that goes into the scrolls will be maintained by the operator
 
 ## Maker 
 
-The maker makes things which act as markers. Markers are physical things with meaning left in the specific places by the specific things to which the scrolls point.  These can be anything, any made object which has some kind of meaning. They could be cardboard and sharpie if you have nothing else, but can also be complex manufactured things made from trash.  This is where the trash magicians exist, in the role of maker. Make marker and give them to the explorer who will put them in places.
+The maker makes things which act as markers. Markers are physical things with meaning left in the specific places by the specific things to which the scrolls point.  These can be anything, any made object which has some kind of meaning. They could be cardboard and sharpie if you have nothing else, but can also be complex manufactured things made from trash.  This is where the trash magicians exist, in the role of maker. Make marker and give them to the explorer who will put them in places.  Markers are not property, only make what you are prepared to give away. Anyone can take them and move them at any time, if they do, we just keep making things and adding them. Building this flow of things is part of what we are here for. Everything is free, makers are people who make things and give them away.
 
 ## Explorer
 
