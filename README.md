@@ -25,11 +25,11 @@ A text-based mixed reality game.
 
 ## How to create a new CHAOS game:
 
-1. [replicate CHAOS server to development computer, github](scrolls/replicate)
+1. replicate CHAOS server to development computer, github
 2. find a place for an exchange, name it, leave a marker
 3. write a question for the place
 4. write directions to the place
-5. [create and edit scroll with question, name, directions, links to other scrolls](scrolls/evolve)
+5. create and edit scroll with question, name, directions, links to other scrolls
 6. push scroll to github, replicate from github to global domain with CHAOS server
 7. post links to public facing server
 8. Link up the map
