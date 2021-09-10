@@ -18,6 +18,7 @@ A self-replicating text-based mixed reality game.
 2. answer the questions
 3. leave a thing, take a thing
 4. write a message, read a message
+5. clean up the place
 
 ## Rules:
 
@@ -60,8 +61,9 @@ A self-replicating text-based mixed reality game.
 3. Find very local landmarks which direct players to a place only a bout a yard in size.
 4. give places names that can easily map to other places, like "tree" or "manhole"
 5. avoid private names of businesses or people
-6. leave a marker which people can take as many of as they want, return to leave more markers, only use markers you want to distribute freely
-7. seed places by leaving cardboard, sharpies, random art, useful things
+6. leave a marker which people can take as many of as they want, return to leave more markers, use this to distribute art you want to send out into the community for free(e.g. Golden Triangles)
+7. each place has a ziplock bag with a pen and index cards, seed them with 16 or so cards so that people can write on a card and leave it, take another card and move it to another place.
+
 
 ## Asking questions
 
