@@ -17,7 +17,7 @@ A self-replicating text-based mixed reality game.
 1. follow the scrolls
 2. answer the questions
 3. leave a thing, take a thing
-4. write a message, read a message
+4. leave a message, take a message
 5. clean up the place
 
 ## Rules:
