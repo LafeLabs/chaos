@@ -43,14 +43,15 @@ A self-replicating text-based mixed reality game.
 3. Create a new file in the directory called replicator.php and copy the file [php/replicator.txt](php/replicator.txt) into it, then run from the command line by typing "php replicator.php".
 4. Run a local PHP web host on your machine by typing "php -S localhost:80", and point a web browser to [http://localhost](http://localhost).
 5. Create new scrolls and edit them using [scrolleditor.php](scrolleditor.php). Scrolls are in the [Markdown](https://daringfireball.net/projects/markdown/) language
-6. Delete unused scrolls with [scrolldelete.html](scrolldelete.html)
-7. Update the dna with [dnagenerator.php](dnagenerator.php)
-8. Update the scroll replicator with [scrollset.html](scrollset.html)
-9. Use [editor.php](editor.php) to edit the code in replicator.txt so that both links to global urls are to your new repository rather than what they are now.
-10. Push all changes to github
-11. Either get a new domain for the place you're building CHAOS in or use [fork.html](fork.html) to fork down to a new page below an existing CHAOS server.  In whatever directory you will build your new server, place another copy of your new file [php/replicator.txt](php/replicator.txt), saved again as replicator.php.
-12. Point a browser to [whatever your server address is]/replicator.php, wait, then click the link
-13. Create physical links to the url and place in physical proximity to the places
+6. Link scrolls using local links specific to CHAOS servers, where the link is either to (scrolls/scrollname) or uses the syntax scrol(scrollname)
+7. Delete unused scrolls with [scrolldelete.html](scrolldelete.html)
+8. Update the dna with [dnagenerator.php](dnagenerator.php)
+9. Update the scroll replicator with [scrollset.html](scrollset.html)
+10. Use [editor.php](editor.php) to edit the code in replicator.txt so that both links to global urls are to your new repository rather than what they are now.
+11. Push all changes to github
+12. Either get a new domain for the place you're building CHAOS in or use [fork.html](fork.html) to fork down to a new page below an existing CHAOS server.  In whatever directory you will build your new server, place another copy of your new file [php/replicator.txt](php/replicator.txt), saved again as replicator.php.
+13. Point a browser to [whatever your server address is]/replicator.php, wait, then click the link
+14. Create physical links to the url and place in physical proximity to the places
 
 ## Finding a place.  
 
