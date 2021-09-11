@@ -1,16 +1,18 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/md216/",
     "scrolls": [
-        "bench",
-        "deadend",
-        "dumpster",
-        "gazebo",
+        "busshelter",
+        "cherrytreesign",
+        "eastbridge",
         "home",
-        "manhole",
-        "pipe",
-        "pylon",
-        "tree",
-        "treegrotto",
-        "woods"
+        "htsignwall",
+        "iceguardrail",
+        "icewall",
+        "laurelsign",
+        "md216questions",
+        "parkandridetree",
+        "sign29",
+        "smashpole",
+        "westbridge"
     ]
 }

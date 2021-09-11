@@ -1,27 +1,6 @@
-[../](../)
+*what is this place?*
 
-*how can we make this place better?*
-
-# Maryland Route 216
-
-[md216questions](scrolls/md216questions)
-
- - [wikipedia]
-(https://en.wikipedia.org/wiki/Maryland_Route_216)
- - 14 km long, 8.7 miles
- - that's about 7 neighborhoods according to a 2 km range
- - laurel, north laurel, scagsville/fulton, highland
- - traffic circles
- - commuters
- - signs
- - barriers
- - homes
- - freight
- - groceries
- - trucking
- - gas
- - water
-
+# [Chaos](https://github.com/LafeLabs/chaos/)
 
 A self-replicating text-based mixed reality game.
 
@@ -29,9 +8,7 @@ A self-replicating text-based mixed reality game.
 
 1. follow the scrolls
 2. answer the questions
-3. leave a thing, take a thing
-4. leave a message, take a message
-5. clean up the place
+3. replicate the game
 
 ## Rules:
 
@@ -45,16 +22,7 @@ A self-replicating text-based mixed reality game.
 
 ## Scrolls:
 
- - [dumpster](scrolls/dumpster)
- - [deadend](scrolls/deadend)
- - [woods](scrolls/woods)
- - [manhole](scrolls/manhole)
- - [tree](scrolls/tree)
- - [pipe](scrolls/pipe)
- - [gazebo](scrolls/gazebo)
- - [bench](scrolls/bench)
- - [treegrotto](scrolls/treegrotto)
- - [pylon](scrolls/pylon)
+[fork down to fulton](fulton/)
 
 Links:
 
@@ -72,9 +40,8 @@ Links:
  - [scroll set replicator](scrollset.html)
  - [replicator.php](replicator.php)
  - [scroll delete](scrolldelete.html)
+ - [distance calculator](distance.html)
  - [qrcode](qrcode.html)
  - [geometron set replicator](set.html)
 
-
-[![](https://i.imgur.com/xELR9x1.png)](qrcode.html)
 
