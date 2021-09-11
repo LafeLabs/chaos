@@ -4,10 +4,6 @@
 
 *what is this place?*
 
-[![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
-
-![](https://i.imgur.com/LB6kLFj.png)
-
 # CHAOS
 
 A self-replicating text-based mixed reality game.
@@ -104,5 +100,11 @@ Directions can be from another place in the map or from a landmark like an inter
 7. look at the insects
 8. look at the fungi
 9. language is how the mind parses reality
+
+[![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
+
+![](https://i.imgur.com/LB6kLFj.png)
+
+
 
 
