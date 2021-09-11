@@ -1,16 +1,10 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/md216/fulton/",
     "scrolls": [
-        "bench",
-        "deadend",
-        "dumpster",
-        "gazebo",
         "home",
-        "manhole",
-        "pipe",
-        "pylon",
-        "tree",
-        "treegrotto",
-        "woods"
+        "icecrystal",
+        "maplelawn",
+        "scaggsville",
+        "westside"
     ]
 }

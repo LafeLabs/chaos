@@ -41,17 +41,10 @@
     ],
     "maps": [],
     "scrolls": [
-        "bench",
-        "deadend",
-        "dumpster",
-        "gazebo",
         "home",
-        "manhole",
-        "pipe",
-        "pylon",
-        "questions",
-        "tree",
-        "treegrotto",
-        "woods"
+        "icecrystal",
+        "maplelawn",
+        "scaggsville",
+        "westside"
     ]
 }
