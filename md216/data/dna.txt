@@ -48,7 +48,6 @@
         "manhole",
         "pipe",
         "pylon",
-        "questions",
         "tree",
         "treegrotto",
         "woods"

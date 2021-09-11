@@ -2,7 +2,7 @@
 
 ### README.md
 
-*how can we make this place better?*
+*what is the language of this place?*
 
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
@@ -16,8 +16,9 @@ A self-replicating text-based mixed reality game.
 
 1. follow the scrolls
 2. answer the questions
-3. make this place better
-
+3. leave a thing, take a thing
+4. leave a message, take a message
+5. clean up the place
 
 ## Rules:
 
@@ -60,7 +61,7 @@ A self-replicating text-based mixed reality game.
 3. Find very local landmarks which direct players to a place only a bout a yard in size.
 4. give places names that can easily map to other places, like "tree" or "manhole"
 5. avoid private names of businesses or people
-6. leave a marker which people can take as many of as they want, return to leave more markers, use this to distribute art you want to send out into the community for free(e.g. Golden Triangles, robot coins)
+6. leave a marker which people can take as many of as they want, return to leave more markers, use this to distribute art you want to send out into the community for free(e.g. Golden Triangles)
 7. each place has a ziplock bag with a pen and index cards, seed them with 16 or so cards so that people can write on a card and leave it, take another card and move it to another place.
 
 
