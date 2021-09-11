@@ -2,7 +2,7 @@
 
 ### README.md
 
-*how can we make this place better?*
+*what is this place?*
 
 [![](https://i.imgur.com/9UPvqj9.png)](https://github.com/LafeLabs/chaos/)
 
@@ -16,8 +16,7 @@ A self-replicating text-based mixed reality game.
 
 1. follow the scrolls
 2. answer the questions
-3. make this place better
-
+3. replicate the game
 
 ## Rules:
 

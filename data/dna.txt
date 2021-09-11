@@ -2,6 +2,7 @@
     "html": [
         "README.md",
         "copy.html",
+        "distance.html",
         "fork.html",
         "index.html",
         "qrcode.html",

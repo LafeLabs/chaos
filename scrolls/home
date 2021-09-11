@@ -1,4 +1,4 @@
-*how can we make this place better?*
+*what is this place?*
 
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
@@ -8,7 +8,7 @@ A self-replicating text-based mixed reality game.
 
 1. follow the scrolls
 2. answer the questions
-3. make this place better
+3. replicate the game
 
 ## Rules:
 
@@ -49,6 +49,7 @@ Links:
  - [scroll set replicator](scrollset.html)
  - [replicator.php](replicator.php)
  - [scroll delete](scrolldelete.html)
+ - [distance calculator](distance.html)
  - [qrcode](qrcode.html)
  - [geometron set replicator](set.html)
 
