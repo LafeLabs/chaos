@@ -4,6 +4,8 @@
 
 *what is this place?*
 
+![](https://i.imgur.com/9UPvqj9.png)
+
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
 A self-replicating text-based mixed reality game.
