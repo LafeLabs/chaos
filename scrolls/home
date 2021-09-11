@@ -6,19 +6,9 @@ A self-replicating text-based mixed reality game.
 
 ## How to play:
 
-1. follow the scrolls
-2. answer the questions
+1. follow the scrolls to the places
+2. answer the questions about the places
 3. replicate the game
-
-## Rules:
-
-1. everything [replicates](scroll(README.md))
-2. everything [evolves](scroll(README.md))
-3. everything [dies](scroll(README.md))
-
-## Creating your own CHAOS game:
-
-[README](scroll(README.md))
 
 ## Scrolls:
 
@@ -32,6 +22,12 @@ A self-replicating text-based mixed reality game.
  - [bench](scrolls/bench)
  - [treegrotto](scrolls/treegrotto)
  - [pylon](scrolls/pylon)
+
+Questions are in the scrolls.
+
+## Create your own CHAOS
+
+[README](scroll(README.md))
 
 Links:
 
@@ -52,7 +48,4 @@ Links:
  - [distance calculator](distance.html)
  - [qrcode](qrcode.html)
  - [geometron set replicator](set.html)
-
-
-[![](https://i.imgur.com/xELR9x1.png)](qrcode.html)
 
