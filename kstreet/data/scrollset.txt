@@ -1,0 +1,11 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
+    "scrolls": [
+        "coffee",
+        "connector",
+        "home",
+        "liminal",
+        "overpass",
+        "square"
+    ]
+}
