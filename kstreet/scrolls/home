@@ -14,40 +14,10 @@ A self-replicating text-based mixed reality game.
 
 ## Scrolls:
 
- - [dumpster](scrolls/dumpster)
- - [deadend](scrolls/deadend)
- - [woods](scrolls/woods)
- - [manhole](scrolls/manhole)
- - [tree](scrolls/tree)
- - [pipe](scrolls/pipe)
- - [gazebo](scrolls/gazebo)
- - [bench](scrolls/bench)
- - [treegrotto](scrolls/treegrotto)
- - [pylon](scrolls/pylon)
+[Start at Farragut North Metro station k street exit](scrolls/connector)
 
-Questions are in the scrolls.
 
-## Create your own CHAOS
+## Replicate CHAOS game:
 
 [link to documentation at README.md](scroll(README.md))
-
-Links:
-
- - [fork down](fork.html)
- - [php/replicator.txt](php/replicator.txt)
- - [global replicator link](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)
- - [data/dna.txt](data/dna.txt)
- - [scroll editor](scrolleditor.php)
- - [code editor](editor.php)
- - [localhost](http://localhost)
- - [github repo](https://github.com/LafeLabs/chaos)
- - [dnagenerator.php](dnagenerator.php)
- - [text2php.php](text2php.php)
- - [copy from other servers](copy.html)
- - [scroll set replicator](scrollset.html)
- - [replicator.php](replicator.php)
- - [scroll delete](scrolldelete.html)
- - [distance calculator](distance.html)
- - [qrcode](qrcode.html)
- - [geometron set replicator](set.html)
 
