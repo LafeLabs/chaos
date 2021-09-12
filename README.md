@@ -22,6 +22,13 @@ A self-replicating text-based mixed reality game.
  - [Maple Lawn, Howard County, Maryland](https://www.maplelawn.net/)
  - [Maryland Route 216, through Fulton](https://www.md216.xyz/fulton/)
 
+
+## Rules
+
+1. everything replicates
+2. everything evolves
+3. everything dies
+
 ## How to create your own CHAOS game
 
 1. find a public place about the size of a person, go there
@@ -54,6 +61,18 @@ https://raw.githubusercontent.com/LafeLabs/chaos/main/
 
 note that no file exists at that url, it is the root from which other files come.  If you save your CHAOS server as a repo named chaos, the only thing you need to change in that url is the github username, change that to yours.
 
+
+## laws of geometron
+
+1. everything is physical
+2. everything is fractal
+3. everything is recursive
+4. no money
+5. no mining
+6. no property
+7. look at the insects
+8. look at the fungi
+9. language is how the mind parses reality
 
 ## Influences:
 
