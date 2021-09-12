@@ -62,6 +62,8 @@ https://raw.githubusercontent.com/LafeLabs/chaos/main/
 note that no file exists at that url, it is the root from which other files come.  If you save your CHAOS server as a repo named chaos, the only thing you need to change in that url is the github username, change that to yours.
 
 
+email operator: lafelabs at gmail dot com
+
 ## laws of geometron
 
 1. everything is physical
