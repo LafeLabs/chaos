@@ -109,7 +109,9 @@ function redraw(){
     deltay = (lat2 - lat1)*4e7/360;//degrees to meters
     deltax = (lon2 - lon1)*cosine*4e7/360;
     distance = Math.round(Math.sqrt(deltax*deltax + deltay*deltay));
-    document.getElementById("distance").innerHTML = "d = " + distance.toString()  + " m";
+    distance_feet = Math.round(3.281*distance/10)*10;
+    distance_miles = Math.round(100*distance_feet/5280)/100;
+    document.getElementById("distance").innerHTML = "d = " + distance.toString()  + " m = " + distance_feet.toString() + " ft = " + distance_miles + " miles";
     document.getElementById("deltax").innerHTML = "dx = " + Math.round(deltax).toString()  + " m";
     document.getElementById("deltay").innerHTML = "dy = " + Math.round(deltay).toString()  + " m";
     

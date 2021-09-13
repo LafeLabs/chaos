@@ -43,7 +43,7 @@ A self-replicating text-based mixed reality game.
 3. Create a new file in the directory called replicator.php and copy the file [php/replicator.txt](php/replicator.txt)([global url](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)) into it, then run from the command line by typing "php replicator.php".
 4. Run a local PHP web host on your machine by typing "php -S localhost:80", and point a web browser to [http://localhost](http://localhost).
 5. Create new scrolls and edit them using [scrolleditor.php](scrolleditor.php). Scrolls are in the [Markdown](https://daringfireball.net/projects/markdown/) language
-6. Link scrolls to each other using local links specific to CHAOS servers, where the link is either to (scrolls/scrollname) or uses the syntax scrol(scrollname)
+6. Link scrolls to each other using local links specific to CHAOS servers, where the link is either to (scrolls/scrollname) or uses the syntax scroll(scrollname)
 7. Delete unused scrolls with [scrolldelete.html](scrolldelete.html)
 8. Update the dna with [dnagenerator.php](dnagenerator.php)
 9. Update the scroll replicator with [scrollset.html](scrollset.html)
