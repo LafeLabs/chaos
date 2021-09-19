@@ -15,7 +15,7 @@ A self-replicating text-based mixed reality game for mutual aid.
 2. go to a place, give it a name, describe its location
 3. define a quest for that place improve the material conditions of the community in that place
 4. transmit space, place, and quest to operator, email at lafelabs at gmail dot com[update operator contact here]
-5. get back a QR code, link, and web path from operator
+5. get back a QR code, link, and web path to scroll from operator
 6. make signs and white rabbits, find players
 
 ## How to play:

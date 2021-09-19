@@ -37,6 +37,7 @@
 </table>
 <a id = "linklink"></a>
 <div id = "qrcode"></div>
+<div id = "scrollscroll"></div>
 <script>
 
 codesquaresize = 512;
@@ -64,7 +65,7 @@ qrcode = new QRCode(document.getElementById("qrcode"), {
 	width: codesquaresize,
 	height: codesquaresize,
 	colorDark : "#000000",
-	colorLight : "#00ff00",
+	colorLight : "#ffffff",
 	correctLevel : QRCode.CorrectLevel.H
 });
 
@@ -80,6 +81,43 @@ document.getElementById("urlbutton").onclick = function(){
     
 }
 
+
+
+scrolls = [];
+var httpc9 = new XMLHttpRequest();
+httpc9.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        scrolls = JSON.parse(this.responseText);
+        for(var index = 0;index < scrolls.length;index++) {
+            var newscrollbutton = document.createElement("div");
+            newscrollbutton.className = "boxlink";
+            newscrollbutton.innerHTML = scrolls[index];
+            document.getElementById("scrollscroll").appendChild(newscrollbutton);
+            newscrollbutton.onclick = function(){
+                currentFile =  "scrolls/" + this.innerHTML;
+                
+                loadscroll(currentFile);
+                
+                
+            }
+        }
+    };
+}
+
+httpc9.open("GET", "dir.php?filename=scrolls", true);
+httpc9.send();
+
+
+function loadscroll(currentFile){
+    
+    var localurl = window.location.href.split("qrcode.html")[0];
+    document.getElementById("urlinput").value = localurl;
+    globalurl = localurl + "scroll.php?scroll=" + currentFile;
+    qrcode.makeCode(globalurl);
+    document.getElementById("linklink").href = globalurl;
+    document.getElementById("linklink").innerHTML = globalurl;
+
+}
 </script>
 <style>
 input{
@@ -98,9 +136,32 @@ body{
 }
 canvas,img{
     border:solid;
-    border-color:#00ff00;
+    border-color:#ffffff;
     border-width:4px;
     margin:1em 1em 1em 1em;
+}
+#scrollscroll{
+    position:absolute;
+    right:10px;
+    bottom:10px;
+    width:50%;
+    top:200px;
+    border:solid;
+    border-color:#00ff00;
+    overflow:scroll;
+}
+.boxlink{
+    padding:0.5em 0.5em 0.5em 0.5em;
+    margin:0.5em 0.5em 0.5em 0.5em;
+
+    border:solid;
+    cursor:pointer;
+}
+.boxlink:hover{
+    background-color:green;
+}
+.boxlink:active{
+    background-color:yellow;
 }
 .button{
     cursor:pointer;
