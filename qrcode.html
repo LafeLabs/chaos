@@ -40,7 +40,14 @@
 <div id = "scrollscroll"></div>
 <script>
 
-codesquaresize = 512;
+if(innerWidth < innerHeight){
+    codesquaresize = 0.5*innerWidth;
+}
+else{
+    codesquaresize = 0.5*innerHeight;    
+}
+
+
 marginsize = 40;
 fontsize = 12;
 
@@ -145,7 +152,7 @@ canvas,img{
     right:10px;
     bottom:10px;
     width:50%;
-    top:200px;
+    top:50%;
     border:solid;
     border-color:#00ff00;
     overflow:scroll;
@@ -174,6 +181,11 @@ canvas,img{
 }
 .button:active{
     background-color:yellow;
+}
+#qrcode{
+    position:absolute;
+    right:0px;
+    top:0px;
 }
 </style>
 </body>
