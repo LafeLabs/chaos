@@ -1,5 +1,5 @@
 {
-    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/maplelawn/",
     "scrolls": [
         "bench",
         "deadend",
@@ -9,8 +9,10 @@
         "manhole",
         "pipe",
         "pylon",
+        "questions",
         "tree",
         "treegrotto",
+        "wall",
         "woods"
     ]
 }

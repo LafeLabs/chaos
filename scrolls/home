@@ -4,7 +4,7 @@
 
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
-A self-replicating text-based mixed reality game.
+A self-replicating text-based mixed reality game about this place right here.
 
 ## How to play:
 
@@ -12,18 +12,14 @@ A self-replicating text-based mixed reality game.
 2. answer the questions about the places
 3. replicate the game
 
+## Games:
+
+ - [maplelawn](maplelawn/)
+ - [kstreet](https://www.kstreet.xyz) 
+
 ## Scrolls:
 
- - [dumpster](scrolls/dumpster)
- - [deadend](scrolls/deadend)
- - [woods](scrolls/woods)
- - [manhole](scrolls/manhole)
- - [tree](scrolls/tree)
- - [pipe](scrolls/pipe)
- - [gazebo](scrolls/gazebo)
- - [bench](scrolls/bench)
- - [treegrotto](scrolls/treegrotto)
- - [pylon](scrolls/pylon)
+ - [home](scrolls/home) 
 
 Questions are in the scrolls.
 
@@ -31,7 +27,7 @@ Questions are in the scrolls.
 
 [link to documentation at README.md](scroll(README.md))
 
-Links:
+Links: 
 
  - [fork down](fork.html)
  - [../](../)
@@ -51,4 +47,6 @@ Links:
  - [distance calculator](distance.html)
  - [qrcode](qrcode.html)
  - [geometron set replicator](set.html)
+
+
 
