@@ -7,6 +7,7 @@
         "index.html",
         "qrcode.html",
         "scrolldelete.html",
+        "scrolls.html",
         "scrollset.html",
         "set.html"
     ],
@@ -33,6 +34,7 @@
         "mkdir.txt",
         "rdelete.txt",
         "replicator.txt",
+        "scroll.txt",
         "scrolleditor.txt",
         "scrollsetreplicator.txt",
         "setreplicator.txt",
@@ -41,6 +43,7 @@
     ],
     "maps": [],
     "scrolls": [
+        "foo",
         "home"
     ]
 }

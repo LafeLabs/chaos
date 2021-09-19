@@ -9,23 +9,25 @@ A self-replicating text-based mixed reality game for mutual aid.
 
 *from each according to their ability to each according to their need*
 
+## Create a Space, Place and Quest:
+
+1. name the "space" in which the place exists
+2. go to a place, give it a name, describe its location
+3. define a quest for that place improve the material conditions of the community in that place
+4. transmit space, place, and quest to operator, email at lafelabs at gmail dot com[update operator contact here]
+5. get back a QR code, link, and web path from operator
+6. make signs and white rabbits, find players
+
 ## How to play:
 
 1. choose a scroll, follow a scroll to a place
 2. complete the quest for that place
-3. replicate the game(create new quest)
+3. replicate the game(create new space, place and quest)
 
-## To replicate the game:
 
-1. choose a name for a space between 100 yards and a mile across
-2. go find a shared public place(about the size of a street corner or bus stop) in that space, give it a name
-3. write a quest to help the community in that place specifically
-4. give place and quest to an operator, who will write a scroll, post it and give you the address
-5. create white rabbit for the scroll and distribute
+## Scrolls:
 
-## Contact Operator:
-
-email lafelabs at gmail dot com
+Add scrolls here
 
 
 ## Influences:
@@ -61,4 +63,30 @@ email lafelabs at gmail dot com
 11. Push all changes to github
 12. Either get a new domain for the place you're building CHAOS in or use [fork.html](fork.html) to fork down to a new page below an existing CHAOS server.  In whatever directory you will build your new server, place another copy of your new file [php/replicator.txt](php/replicator.txt)([global url](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)), saved again as replicator.php.
 13. Point a browser to [whatever your server address is]/replicator.php, wait, then click the link
+
+## Links
+
+ - [home](index.html)
+ - [scroll editor](scrolleditor.php)
+ - [scrolls.html](scrolls.html)
+ - [qrcode.html](qrcode.html)
+ - [fork down](fork.html)
+ - [../](../)
+ - [README.md](scroll(README.md))
+ - [php/replicator.txt](php/replicator.txt)
+ - [global replicator link](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)
+ - [data/dna.txt](data/dna.txt)
+ - [scroll editor](scrolleditor.php)
+ - [code editor](editor.php)
+ - [localhost](http://localhost)
+ - [github repo](https://github.com/LafeLabs/chaos)
+ - [dnagenerator.php](dnagenerator.php)
+ - [text2php.php](text2php.php)
+ - [copy from other servers](copy.html)
+ - [scroll set replicator](scrollset.html)
+ - [replicator.php](replicator.php)
+ - [scroll delete](scrolldelete.html)
+ - [distance calculator](distance.html)
+ - [qrcode](qrcode.html)
+ - [geometron set replicator](set.html)
 

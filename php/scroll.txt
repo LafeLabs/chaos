@@ -41,6 +41,13 @@
     
 </head>
 <body>    
+<div class = "data" id = "scrolldiv"><?php
+    
+if(isset($_GET["scroll"])){
+    echo $_GET["scroll"];
+}
+
+?></div>
 <div id = "scrollscroll"></div>
 <script>
 
@@ -71,6 +78,15 @@ converter.setOption('tables', 'true')
     
 filename = "scrolls/home";
 loadscroll("scrolls/home");
+
+if(document.getElementById("scrolldiv").innerHTML.length > 0){
+    loadscroll(document.getElementById("scrolldiv").innerHTML);
+}
+
+
+if(document.getElementById("scrolldiv").innerHTML.length == 0){
+    loadscroll("scrolls/home");
+}
 
 localfile = true;
 
