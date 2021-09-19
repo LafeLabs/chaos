@@ -42,6 +42,9 @@ email lafelabs at gmail dot com
  - [really really free markets](https://en.wikipedia.org/wiki/Really_Really_Free_Market)
  - [food not bombs](https://en.wikipedia.org/wiki/Food_Not_Bombs)
 
+## Example:
+
+[www.lafayettesquare.xyz](https://www.lafayettesquare.xyz/)
 
 ## How to create a CHAOS server
 
