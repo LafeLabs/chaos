@@ -16,7 +16,7 @@ A self-replicating text-based mixed reality game for mutual aid.
 2. go find a shared public place(about the size of a street corner or bus stop) in that space, give it a name
 3. write a quest to help the community in that place specifically
 4. give place and quest to an operator, who will write a scroll, post it and give you the address
-5. create white rabbit for the scroll
+5. create white rabbit for the scroll and distribute
 
 ## To replicate CHAOS system
 
