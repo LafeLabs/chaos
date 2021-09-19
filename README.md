@@ -1,68 +1,28 @@
 [home](scrolls/home)
 
-### README.md
-
-*what is this place?*
-
 ![](https://i.imgur.com/9UPvqj9.png)
 
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
-A self-replicating text-based mixed reality game.
+A self-replicating text-based mixed reality game to make this place right here better.
 
 ## How to play:
 
-1. follow the scrolls to the places
-2. answer the questions about the places
+1. follow the scroll to the place
+2. complete the quest
 3. replicate the game
 
-## Live CHAOS servers:
+## To replicate the game:
 
- - [localhost](http://localhost/)
- - [Maple Lawn, Howard County, Maryland](https://www.maplelawn.net/)
- - [Maryland Route 216, through Fulton](https://www.md216.xyz/fulton/)
+1. choose a name for a space about a mile across
+1. go find a shared public place in that space, give it a name
+2. write a quest to make that place better
+3. tell place and quest to an operator, who will write a scroll, post it and give you the address
+4. create white rabbit for the scroll, distribute it
 
+## To replicate CHAOS system
 
-## Rules
-
-1. everything replicates
-2. everything evolves
-3. everything dies
-
-## How to create your own CHAOS game
-
-1. find a public place about the size of a person, go there
-2. write a question about this place
-3. write directions to the place
-4. send directions and question to an operator of a CHAOS server
-
-## How to create a CHAOS server
-
-1. Start a new [github](https://github.com/) repository with a CC0 public domain license
-2. Clone the repository to a directory where you have [PHP](https://www.php.net/) working on your computer.
-3. Create a new file in the directory called replicator.php and copy the file [php/replicator.txt](php/replicator.txt)([global url](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)) into it, then run from the command line by typing "php replicator.php".
-4. Run a local PHP web host on your machine by typing "php -S localhost:80", and point a web browser to [http://localhost](http://localhost).
-5. Create new scrolls and edit them using [scrolleditor.php](scrolleditor.php). Scrolls are in the [Markdown](https://daringfireball.net/projects/markdown/) language
-6. Link scrolls to each other using local links specific to CHAOS servers, where the link is either to (scrolls/scrollname) or uses the syntax scroll(scrollname)
-7. Delete unused scrolls with [scrolldelete.html](scrolldelete.html)
-8. Update the dna with [dnagenerator.php](dnagenerator.php)
-9. Update the scroll replicator with [scrollset.html](scrollset.html)
-10. Use [editor.php](editor.php) to edit the code in replicator.txt so that both links to global urls are to your new repository rather than what they are now.
-11. Push all changes to github
-12. Either get a new domain for the place you're building CHAOS in or use [fork.html](fork.html) to fork down to a new page below an existing CHAOS server.  In whatever directory you will build your new server, place another copy of your new file [php/replicator.txt](php/replicator.txt)([global url](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)), saved again as replicator.php.
-13. Point a browser to [whatever your server address is]/replicator.php, wait, then click the link
-14. Create white rabbits with url of server, drop in the area around the places
-
-## Operating a CHAOS server
-
-Leave your contact info in a place.  Players will contact you with directions to places and questions.  To post them, add them to new scrolls, push those scrolls to your github repo, then keep replicating.  Fork as needed.  To replicate scrolls but not all the other parts of a server, use [the scroll set replicator](scrollset.html), and change the server address to be whatever the github address is up to but not including the exact file name.  For example, here is the address used here:
-
-https://raw.githubusercontent.com/LafeLabs/chaos/main/
-
-note that no file exists at that url, it is the root from which other files come.  If you save your CHAOS server as a repo named chaos, the only thing you need to change in that url is the github username, change that to yours.
-
-
-email operator: lafelabs at gmail dot com
+If you want to replicate all the software parts, email the current Operator of this instance at lafelabs at gmail dot com.  This is all free, but you will need to do some tedious computer things.  You can also learn to run servers on any other platform including Windows, Mac, Android, iOS, and Raspberry Pi.
 
 ## laws of geometron
 
@@ -111,4 +71,20 @@ email operator: lafelabs at gmail dot com
  - [distance calculator](distance.html)
  - [qrcode](qrcode.html)
  - [geometron set replicator](set.html)
+
+## How to create a CHAOS server
+
+1. Start a new [github](https://github.com/) repository with a CC0 public domain license
+2. Clone the repository to a directory where you have [PHP](https://www.php.net/) working on your computer.
+3. Create a new file in the new directory called replicator.php and copy the file [php/replicator.txt](php/replicator.txt)([global url](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)) into it, then run from the command line by typing "php replicator.php".
+4. Run a local PHP web host on your machine by typing "php -S localhost:80", and point a web browser to [http://localhost](http://localhost).
+5. Create new scrolls and edit them using [scrolleditor.php](scrolleditor.php). Scrolls are in the [Markdown](https://daringfireball.net/projects/markdown/) language
+6. Link scrolls to each other using local links specific to CHAOS servers, where the link is either to (scrolls/scrollname) or uses the syntax scroll(scrollname)
+7. Delete unused scrolls with [scrolldelete.html](scrolldelete.html)
+8. Update the dna with [dnagenerator.php](dnagenerator.php)
+9. Update the scroll replicator with [scrollset.html](scrollset.html)
+10. Use [editor.php](editor.php) to edit the code in replicator.txt so that both links to global urls are to your new repository rather than what they are now.
+11. Push all changes to github
+12. Either get a new domain for the place you're building CHAOS in or use [fork.html](fork.html) to fork down to a new page below an existing CHAOS server.  In whatever directory you will build your new server, place another copy of your new file [php/replicator.txt](php/replicator.txt)([global url](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)), saved again as replicator.php.
+13. Point a browser to [whatever your server address is]/replicator.php, wait, then click the link
 
