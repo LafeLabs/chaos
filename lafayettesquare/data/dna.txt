@@ -41,6 +41,9 @@
     ],
     "maps": [],
     "scrolls": [
-        "home"
+        "chessboards",
+        "home",
+        "peacecamp",
+        "trashcore"
     ]
 }

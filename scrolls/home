@@ -4,11 +4,13 @@
 
 A self-replicating text-based mixed reality game for mutual aid.
 
+*from each according to their ability to each according to their need*
+
 ## How to play:
 
-1. follow the scroll to the place
-2. complete the quest
-3. replicate the game
+1. choose a scroll, follow a scroll to a place
+2. complete the quest for that place
+3. replicate the game(create new quest)
 
 ## To replicate the game:
 
@@ -27,9 +29,30 @@ A self-replicating text-based mixed reality game for mutual aid.
 
  - [home](scrolls/home) 
 
-## Become an Operator
+## Contact Operator:
 
-[To replicate the system read the README file](scroll(README.md))
+email lafelabs at gmail dot com
 
+## Links: 
+
+ - [fork down](fork.html)
+ - [../](../)
+ - [README.md](scroll(README.md))
+ - [php/replicator.txt](php/replicator.txt)
+ - [global replicator link](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)
+ - [data/dna.txt](data/dna.txt)
+ - [scroll editor](scrolleditor.php)
+ - [code editor](editor.php)
+ - [localhost](http://localhost)
+ - [github repo](https://github.com/LafeLabs/chaos)
+ - [dnagenerator.php](dnagenerator.php)
+ - [text2php.php](text2php.php)
+ - [copy from other servers](copy.html)
+ - [scroll set replicator](scrollset.html)
+ - [replicator.php](replicator.php)
+ - [scroll delete](scrolldelete.html)
+ - [distance calculator](distance.html)
+ - [qrcode](qrcode.html)
+ - [geometron set replicator](set.html)
 
 

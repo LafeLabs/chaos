@@ -1,0 +1,9 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/chaos/main/",
+    "scrolls": [
+        "chessboards",
+        "home",
+        "peacecamp",
+        "trashcore"
+    ]
+}

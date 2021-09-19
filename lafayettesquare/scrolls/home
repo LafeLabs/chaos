@@ -1,0 +1,42 @@
+![](https://i.imgur.com/9UPvqj9.png)
+
+# [Chaos](https://github.com/LafeLabs/chaos/)
+
+A self-replicating text-based mixed reality game for mutual aid.
+
+## How to play:
+
+1. choose a scroll, follow a scroll to a place
+2. complete the quest for that place
+3. replicate the game(create new quest)
+
+## Space: Lafayette Square
+
+This is the green space North of the Whitehouse and South of H Street and Black Live Matter Plaza.  The easiest metro stations to get here are Farragut North, Farragut West, and McPherson Square.  Sometimes the whole area is blocked off for security but it always opens back up eventually.
+
+[openstreetmap.org link](https://www.openstreetmap.org/#map=18/38.89906/-77.03624)
+
+[google street view](https://www.google.com/maps/@38.9002884,-77.0365577,3a,75y,184.42h,96.41t/data=!3m7!1e1!3m5!1sRndUS2wR2_4fG96d0zwqCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DRndUS2wR2_4fG96d0zwqCA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D213.34996%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
+
+## Scrolls:
+
+ - [chessboards](scrolls/chessboards) 
+ - [peacecamp](scrolls/peacecamp)
+ - [trashcore](scrolls/trashcore) 
+
+
+## To replicate the game:
+
+1. choose a name for a space about a mile across
+2. go find a shared public place(about the size of a street corner or bus stop) in that space, give it a name
+3. write a quest to help the community in that place specifically
+4. give place and quest to an operator, who will write a scroll, post it and give you the address
+5. create white rabbit for the scroll and distribute
+
+
+## Become an Operator
+
+[To replicate the system read the README file](scroll(README.md))
+
+
+
