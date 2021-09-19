@@ -1,14 +1,19 @@
+[home](scrolls/home)
+
 ![](https://i.imgur.com/9UPvqj9.png)
+![](https://i.imgur.com/LB6kLFj.png)
 
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
 A self-replicating text-based mixed reality game for mutual aid.
 
+*from each according to their ability to each according to their need*
+
 ## How to play:
 
-1. follow the scroll to the place
-2. complete the quest
-3. replicate the game
+1. choose a scroll, follow a scroll to a place
+2. complete the quest for that place
+3. replicate the game(create new quest)
 
 ## To replicate the game:
 
@@ -18,21 +23,10 @@ A self-replicating text-based mixed reality game for mutual aid.
 4. give place and quest to an operator, who will write a scroll, post it and give you the address
 5. create white rabbit for the scroll and distribute
 
-## To replicate CHAOS system
+## Contact Operator:
 
-If you want to replicate all the software parts, email the current Operator of this instance at lafelabs at gmail dot com.  This is all free, but you will need to do some tedious computer things.  You can also learn to run servers on any other platform including Windows, Mac, Android, iOS, and Raspberry Pi.
+email lafelabs at gmail dot com
 
-## laws of geometron
-
-1. everything is physical
-2. everything is fractal
-3. everything is recursive
-4. no money
-5. no mining
-6. no property
-7. look at the insects
-8. look at the fungi
-9. language is how the mind parses reality
 
 ## Influences:
 
@@ -48,27 +42,6 @@ If you want to replicate all the software parts, email the current Operator of t
  - [really really free markets](https://en.wikipedia.org/wiki/Really_Really_Free_Market)
  - [food not bombs](https://en.wikipedia.org/wiki/Food_Not_Bombs)
 
-
-## Links: 
-
- - [fork down](fork.html)
- - [../](../)
- - [php/replicator.txt](php/replicator.txt)
- - [global replicator link](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)
- - [data/dna.txt](data/dna.txt)
- - [scroll editor](scrolleditor.php)
- - [code editor](editor.php)
- - [localhost](http://localhost)
- - [github repo](https://github.com/LafeLabs/chaos)
- - [dnagenerator.php](dnagenerator.php)
- - [text2php.php](text2php.php)
- - [copy from other servers](copy.html)
- - [scroll set replicator](scrollset.html)
- - [replicator.php](replicator.php)
- - [scroll delete](scrolldelete.html)
- - [distance calculator](distance.html)
- - [qrcode](qrcode.html)
- - [geometron set replicator](set.html)
 
 ## How to create a CHAOS server
 

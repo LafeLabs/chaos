@@ -1,29 +1,18 @@
 ![](https://i.imgur.com/9UPvqj9.png)
+![](https://i.imgur.com/LB6kLFj.png)
 
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
+
 A self-replicating text-based mixed reality game for mutual aid.
+
+*from each according to their ability to each according to their need*
 
 ## How to play:
 
 1. choose a scroll, follow a scroll to a place
 2. complete the quest for that place
 3. replicate the game(create new quest)
-
-## Space: Lafayette Square
-
-This is the green space North of the Whitehouse and South of H Street and Black Live Matter Plaza.  The easiest metro stations to get here are Farragut North, Farragut West, and McPherson Square.  Sometimes the whole area is blocked off for security but it always opens back up eventually.
-
-[openstreetmap.org link](https://www.openstreetmap.org/#map=18/38.89906/-77.03624)
-
-[google street view](https://www.google.com/maps/@38.9002884,-77.0365577,3a,75y,184.42h,96.41t/data=!3m7!1e1!3m5!1sRndUS2wR2_4fG96d0zwqCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DRndUS2wR2_4fG96d0zwqCA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D213.34996%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
-
-## Scrolls:
-
- - [chessboards](scrolls/chessboards) 
- - [peacecamp](scrolls/peacecamp)
- - [trashcore](scrolls/trashcore) 
-
 
 ## To replicate the game:
 
@@ -33,10 +22,38 @@ This is the green space North of the Whitehouse and South of H Street and Black 
 4. give place and quest to an operator, who will write a scroll, post it and give you the address
 5. create white rabbit for the scroll and distribute
 
+## Spaces:Lafayette Square
 
-## Become an Operator
+## Scrolls:
 
-[To replicate the system read the README file](scroll(README.md))
+ - [chessboards](scrolls/chessboards) 
+ - [peacecamp](scrolls/peacecamp) 
+ - [trashcore](scrolls/trashcore) 
 
+## Contact Operator:
+
+email lafelabs at gmail dot com
+
+## Links: 
+
+ - [fork down](fork.html)
+ - [../](../)
+ - [README.md](scroll(README.md))
+ - [php/replicator.txt](php/replicator.txt)
+ - [global replicator link](https://raw.githubusercontent.com/LafeLabs/chaos/main/php/replicator.txt)
+ - [data/dna.txt](data/dna.txt)
+ - [scroll editor](scrolleditor.php)
+ - [code editor](editor.php)
+ - [localhost](http://localhost)
+ - [github repo](https://github.com/LafeLabs/chaos)
+ - [dnagenerator.php](dnagenerator.php)
+ - [text2php.php](text2php.php)
+ - [copy from other servers](copy.html)
+ - [scroll set replicator](scrollset.html)
+ - [replicator.php](replicator.php)
+ - [scroll delete](scrolldelete.html)
+ - [distance calculator](distance.html)
+ - [qrcode](qrcode.html)
+ - [geometron set replicator](set.html)
 
 
