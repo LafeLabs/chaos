@@ -1,10 +1,8 @@
-[home](scrolls/home)
-
 ![](https://i.imgur.com/9UPvqj9.png)
 
 # [Chaos](https://github.com/LafeLabs/chaos/)
 
-A self-replicating text-based mixed reality game to make this place right here better.
+A self-replicating text-based mixed reality game for mutual aid.
 
 ## How to play:
 
@@ -15,10 +13,10 @@ A self-replicating text-based mixed reality game to make this place right here b
 ## To replicate the game:
 
 1. choose a name for a space about a mile across
-1. go find a shared public place in that space, give it a name
-2. write a quest to make that place better
-3. tell place and quest to an operator, who will write a scroll, post it and give you the address
-4. create white rabbit for the scroll
+2. go find a shared public place(about the size of a street corner or bus stop) in that space, give it a name
+3. write a quest to help the community in that place specifically
+4. give place and quest to an operator, who will write a scroll, post it and give you the address
+5. create white rabbit for the scroll
 
 ## To replicate CHAOS system
 
