@@ -1,4 +1,4 @@
-[home](scrolls/home)
+[home](index.html)
 
 ![](https://i.imgur.com/9UPvqj9.png)
 ![](https://i.imgur.com/LB6kLFj.png)
@@ -65,6 +65,7 @@ Add scrolls here
 ## Links
 
  - [home](index.html)
+ - [localhost](http://localhost)
  - [scroll editor](scrolleditor.php)
  - [scrolls.html](scrolls.html)
  - [qrcode.html](qrcode.html)
@@ -76,7 +77,6 @@ Add scrolls here
  - [data/dna.txt](data/dna.txt)
  - [scroll editor](scrolleditor.php)
  - [code editor](editor.php)
- - [localhost](http://localhost)
  - [github repo](https://github.com/LafeLabs/chaos)
  - [dnagenerator.php](dnagenerator.php)
  - [text2php.php](text2php.php)
