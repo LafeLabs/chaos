@@ -9,7 +9,6 @@
 
 A self-replicating text-based mixed reality game for mutual aid.
 
-*from each according to their ability to each according to their need*
 
 ## Create a Space, Place and Quest:
 
@@ -52,6 +51,7 @@ Add scrolls here
 
 ## Links
 
+ - [scrolls.html](scrolls.html)
  - [fork down](fork.html)
  - [../](../)
  - [php/replicator.txt](php/replicator.txt)

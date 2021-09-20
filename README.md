@@ -7,8 +7,6 @@
 
 A self-replicating text-based mixed reality game for mutual aid.
 
-*from each according to their ability to each according to their need*
-
 ## Create a Space, Place and Quest:
 
 1. name the "space" in which the place exists
